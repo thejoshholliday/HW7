@@ -1,0 +1,32 @@
+/*Define your CSS here*/
+header {
+	display: none;
+}
+#bio {
+	font-family: mont;
+	font-size: 50px;
+	display: flex;
+	margin: 8px;
+	color: #e635bc;
+	text-align: center;
+}
+img {
+	margin-top: 120px;
+}
+#salvador {
+	width: 33.6%;
+	float: left;
+}
+#philadelphia {
+	width: 33.3%;
+	float: center;
+	margin-left: .5%
+}
+#starbucks {
+	width: 32%;
+	float: right;
+	margin-left: .5%
+}
+.clear {
+	filter: invert(75%);
+}
